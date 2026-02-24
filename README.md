@@ -17,7 +17,7 @@ Para preparo e análise dos dados foram utilizadas bibliotecas do Python:
 
 ### 1. Sucesso das campanhas:
 
-- A última ação da campanha foi que obteve maior taxa de aceite dos clientes, 15%, enquanto a campanha 2 teve a menor taxa, apenas 1%;
+- A última ação da campanha obteve a  maior taxa de aceite dos clientes, 15%, enquanto a campanha 2 teve a menor taxa, apenas 1%;
 - A taxa de recusa das ações da campanha foi acima de 80% para todas as estratégias;
   
 ### 2. Perfil de cliente ideal para campanhas:
